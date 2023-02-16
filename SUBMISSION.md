@@ -6,7 +6,6 @@
 
 **HINT:** Embed your screen captures as requested in the sections below. You can embed the image using the following syntax:
 
-```
 ![Screen Capture #1](images/antivy1.png)
 ![Screen Capture #2](images/antivy2.png)
 ![Screen Capture #3](images/antivy3.png)
@@ -16,7 +15,6 @@
 ![Screen Capture #7](images/maven1.png)
 ![Screen Capture #8](images/maven2.png)
 ![Screen Capture #9](images/maven3.png)
-```
 
 The first argument is the Alt-text for the image. The second argument is the path to the image. Make sure your images are readable and that you save them in a JPG or PNG format.
 
