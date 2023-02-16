@@ -63,7 +63,7 @@
 		<classpath>
 				<fileset refid="test.classpath"/>
 				<pathelement path="${classes.dir}" />
-				<pathelement path="${classes.test.dirb}" />
+				<pathelement path="${classes.test.dir}" />
 			</classpath>
 	  </javac>
 	</target>
@@ -79,7 +79,7 @@
 			<classpath>
 				<fileset refid="test.classpath"/>
 				<pathelement path="${classes.dir}" />
-				<pathelement path="${classes.test.dirb}" />
+				<pathelement path="${classes.test.dir}" />
             </classpath>
 			<formatter type="plain" />        
             <batchtest fork="yes" todir="${reports.dir}">
